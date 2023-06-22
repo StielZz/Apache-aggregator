@@ -12,7 +12,7 @@ python Main.py
 ## Сервер
 ### Описание структуры
 
-Папка program:
+Папка home:
 - `API.py` - файл API приложения.
 - `config.json` - файл конфигурации.
 - `LogParse.py` - парсер access логов.
