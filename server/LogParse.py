@@ -27,7 +27,7 @@ def save_to_database(data):
     connection = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='cQ1S!8xR6tD!d7Ob',
+        password='PASSWORD',
         database='db'
     )
 
